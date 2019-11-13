@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Demo App</string>
+    <string name="click">Click For EditText Text</string>
+</resources>
