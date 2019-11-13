@@ -1,6 +1,6 @@
 # viewmodel_kotlin
 
-###In this demo I simply covers following points:
+### In this demo I simply covers following points:
 1. Use of ViewModel in Android Application
 2. MVVM pattern
 3. Data Binding (onclick, update text from viewModel, edittext value updation from XML only)
